@@ -1,6 +1,7 @@
-# something-random
+# something-random :detective:
 
 ## 1. Print numbers between 1 to 10 in a random order.
+### On Linux :zap:
 Linux gives you a simple utility called ***shuf*** that comes part of the GNU CoreUtils.
 What does *shuf* do?
 It writes a random permutation of the input lines to standard output. Run the below commands to know more about ***shuf***.
@@ -31,5 +32,13 @@ $ shuf -i 1-10 -n 10 | tr "\n" " "
 > Extra TIP: To print numbers in a sequential order, run **seq 10** in the terminal. It prints numbers from FIRST to LAST, in steps of INCREMENT.
 
 *The above can also be used within a shell script as required.*
+
+### On MacOS :zap:
+***shuf*** is not installed by default in macOS. To run ***shuf*** commands, run the below in macOS.
+```bash
+$ brew install coreos
+$ shuf -i 1-10 -n 10 | tr "\n" " "
+7 1 8 2 10 3 5 6 4 9
+```
 
 ## 2. Metrics to monitor a server / application.
