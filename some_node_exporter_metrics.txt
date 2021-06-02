@@ -1,0 +1,193 @@
+Basic CPU / Mem / Disk Gauge
+    CPU Busy
+    Used RAM Memory
+    Used SWAP
+    Used Root FS
+    CPU System Load (1m avg)
+    CPU System Load (5m avg)
+Basic CPU / Mem / Disk Info
+    CPU Cores
+    Total RAM
+    Total SWAP
+    Total RootFS
+    System Load (1m avg)
+    Uptime
+Basic CPU / Mem Graph
+    CPU Basic
+    Memory Basic
+Basic Net / Disk Info
+    Network Traffic Basic
+    Disk Space Used Basic
+    CPU Memory Net Disk
+    CPU
+    Memory Stack
+    Network Traffic
+    Disk Space Used
+    Disk IOps
+    I/O Usage Read / Write
+    I/O Usage Times
+Memory Detail Meminfo
+    Memory Active / Inactive
+    Memory Commited
+    Memory Active / Inactive Detail
+    Memory Writeback and Dirty
+    Memory Shared and Mapped
+    Memory Slab
+    Memory Vmalloc
+    Memory Bounce
+    Memory Anonymous
+    Memory Kernel
+    Memory HugePages Counter
+    Memory HugePages Size
+    Memory DirectMap
+    Memory Unevictable and MLocked
+    Memory NFS
+    Memory Detail Vmstat
+    Memory Pages In / Out
+    Memory Pages Swap In / Out
+    Memory Page Operations
+    Memory Page Faults
+    Memory Pages Reclaimed
+    Memory Calls Reclaimed
+    Memory Page Rotate
+    Memory Page Drop
+    Memory Scan Slab
+    Memory Unevictable Pages
+    Memory Page Allocation
+    Memory Page Refill
+    Memory Page Steal Direct
+    Memory Page Steal Kswapd
+    Memory Scan Direct
+    Memory Scan Kswapd
+    Memory Page Compact
+    Memory Compactions
+    Memory Kswapd Watermark
+    Memory Buddy Alloc
+    Memory Numa Allocations
+    Memory Numa Page Migrations
+    Memory Numa Hints
+    Memory Numa Table Updates
+    Memory THP Splits
+    Memory Workingset
+    Memory THP Allocations
+Memory Detail Vmstat Counters
+    Memory Page Active
+    Memory Page Inactive
+    Memory Page Reclaimed / Unreclaimed
+    Memory Page Free / Written
+    Memory Page Dirty / Bounce
+    Memory Pages Unevictable / Mlock
+    Memory Page Shmem / Mapped
+    Memory Page Kernel_stack
+    Memory Pages Writeback
+    Memory Page File_pages
+    Memory Page Dirty Threshold
+    Memory Page Unstable / Dirtied
+    Memory Page Page_table_pages
+    Memory Page Alloc_batch
+    Memory Page Isolated
+    Memory Page Anon
+    Memory Page Misc
+System Detail
+    Context Switches / Interrupts
+    System Load
+    Interrupts Detail
+    File Descriptors
+    Entropy
+    Processes State
+    Processes  Forks
+    Processes Memory
+    Time Syncronized Status
+    Time Syncronized Drift
+    Hardware temperature monitor
+Disk Detail
+    Disk IOps Completed
+    Disk R/W Data
+    Disk R/W Time
+    Disk IOs Weighted
+    Disk R/W Merged
+    Time Spent Doing I/Os
+    Disk IOs Current in Progress
+    Open Error File
+Filesystem Detail
+    Filesystem space available
+    File Nodes Free
+    File Descriptor
+    File Nodes Size
+    Filesystem in ReadOnly
+Network Traffic
+    Network Traffic Detail
+    Network Traffic by Packets
+    Network Traffic Errors
+    Network Traffic Drop
+    Network Traffic Compressed
+    Network Traffic Multicast
+    Network Traffic Fifo
+    Network Traffic Frame
+    Network Traffic Carrier
+    Network Traffic Colls
+    NF Contrack
+    ARP Entries
+Network Sockstat
+    Sockstat TCP
+    Sockstat UDP
+    Sockstat Used
+    Sockstat Memory Size
+    Sockstat FRAG / RAW
+Network Netstat
+    Netstat IP In / Out
+    Netstat IP In / Out Octets
+    Netstat IP Bcast
+    Netstat IP Bcast Octets
+    Netstat IP Mcast
+    Netstat IP Mcast Octets
+    Netstat IP Forwarding
+    Netstat IP Fragmented
+    Netstat IP ECT / CEP
+    Netstat IP Reasambled
+    Netstat IP Errors / Discards
+Network Netstat TCP
+    TCP Segments
+    TCP Connections
+    TCP Retransmission
+    TCP Direct Transition
+Network Netstat TCP Linux MIPs
+    TCP Aborts / Tiemouts
+    TCP Delayed ACK
+    TCP SynCookie / Challenge
+    TCP LOSS
+    TCP DROPS
+    TCP Retrans
+    TCP Pruned
+    TCP Direct Copy
+    TCP TimeWait
+    TCP PAWS
+    TCP SACK
+    TCP DSACK
+    TCP FastOpen / FastRetrans
+    TCP HP
+    TCP ZeroWindow
+    TCP Reorder
+    TCP Reno
+    TCP ReqQ
+    TCP Out of order
+    TCP MD5
+    TCP Prequeued
+    TCP Rcv
+    TCP Original Data
+    TCP Filters
+    TCP Pure ACK
+    TCP Auto Corking
+    TCP Issues
+Network Netstat UDP
+    UDP In / Out
+    UDP Errors
+    UDP Lite In / Out
+    UDP Lite Errors
+Network Netstat ICMP
+    ICMP Errors 1
+    ICMP Errors 2
+    ICMP In / Out - Messages / Redirects
+    ICMP Timestamps
+    ICMP Echos
+    ICMP Masks

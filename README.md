@@ -1,4 +1,4 @@
-# something-random :detective:
+# something-random :beers:
 
 ## 1. Print numbers between 1 to 10 in a random order.
 ### On Linux :zap:
@@ -36,9 +36,12 @@ $ shuf -i 1-10 -n 10 | tr "\n" " "
 ### On MacOS :zap:
 ***shuf*** is not installed by default in macOS. To run ***shuf*** commands, run the below in macOS.
 ```bash
-$ brew install coreos
+$ brew install coreutils
 $ shuf -i 1-10 -n 10 | tr "\n" " "
 7 1 8 2 10 3 5 6 4 9
 ```
 
-## 2. Metrics to monitor a server / application.
+## 2. Metrics to monitor a server / application. :desktop_computer:	
+
+[Click here](https://github.com/vijaysundarv/something-random/blob/main/Monitoring_Server_Applications.pdf) to view the documented solution.
+
